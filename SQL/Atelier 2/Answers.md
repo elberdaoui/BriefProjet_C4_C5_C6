@@ -27,8 +27,8 @@
 | 845657245 | Elizabeth | Doe       |     14     |
 | 845657246 | Kumar     | Swamy     |     14     |
 
--- Executing these queries answering the quesstions :
-## 2.1 Sélectionnez le nom de famille de tous les employés.
+> `Executing these queries answering the quesstions :`
+#### 2.1 Sélectionnez le nom de famille de tous les employés.
 ```sql
 SELECT lastName FROM employees;
 ```
